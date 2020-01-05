@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">HappyRoomates</string>
+    <string name="logo">LOGO</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_field_required">This field is required</string>
+
+    <string name="hint_name">Enter Name</string>
+    <string name="hint_phone">Enter Phone number</string>
+    <string name="hint_ruid">Roomate Email (optional)</string>
+    <string name="hint_email">Enter Email</string>
+    <string name="mine">MY UID</string>
+
+    <string name="action_update">Update</string>
+    <string name="action_logout">Logout</string>
+
+    <string-array name="ratio">
+        <item>Custom</item>
+        <item>1:1</item>
+        <item>1:2</item>
+        <item>2:1</item>
+    </string-array>
+
+</resources>
